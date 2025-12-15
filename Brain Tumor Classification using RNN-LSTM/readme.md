@@ -1,4 +1,4 @@
-# Brain Tumor Classification from MRI using CNN–LSTM
+# Brain Tumor Classification from MRI using RNN–LSTM
 
 This project presents a research-oriented deep learning pipeline for multi-class brain tumor classification from MRI images. The approach combines a pretrained CNN (ResNet18) for spatial feature extraction with an LSTM network to model spatial dependencies across ordered image patches, enabling robust discrimination among tumor types.
 
