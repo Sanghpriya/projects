@@ -1,4 +1,4 @@
-# 🏔️ High-Resolution Landslide Susceptibility Mapping (LSM) — Tehri Garhwal, India
+# 🏔️ Landslide Susceptibility Mapping using ML — Tehri Garhwal, India
 
 An end-to-end geospatial machine learning framework for **10m hyper-resolution Landslide Susceptibility Mapping (LSM)** across the **Tehri Garhwal district, Uttarakhand, India**. This project evaluates four computational architectures—**Logistic Regression (LR)**, **Random Forest (RF)**, **Extreme Gradient Boosting (XGBoost)**, and **Light Gradient Boosting Machine (LightGBM)**—integrating 14 multi-source geospatial factors to predict and delineate regional landslide hazards.
 
@@ -36,7 +36,7 @@ The pipeline incorporates **14 conditioning factors** spanning topographic, geol
 | **Anthropogenic & Environmental**| Distance to Roads, NDVI, Land Use / Land Cover (LULC) | NGDR / Sentinel-2 / ESRI 10m |
 
 <!-- REPLACE 'docs/features_visual.png' WITH YOUR ACTUAL IMAGE PATH -->
-![Landslide Conditioning Factors](docs/features_visual.png)
+![Landslide Conditioning Factors](features.png)
 *Figure 1: Visual layout of the 14 spatial conditioning factors across the Tehri Garhwal district.*
 
 ---
