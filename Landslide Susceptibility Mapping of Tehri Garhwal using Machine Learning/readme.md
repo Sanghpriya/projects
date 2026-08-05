@@ -36,8 +36,15 @@ The pipeline incorporates **14 conditioning factors** spanning topographic, geol
 | **Anthropogenic & Environmental**| Distance to Roads, NDVI, Land Use / Land Cover (LULC) | NGDR / Sentinel-2 / ESRI 10m |
 
 <!-- REPLACE 'docs/features_visual.png' WITH YOUR ACTUAL IMAGE PATH -->
-![Landslide Conditioning Factors](features.png)
+![Landslide Conditioning Factors](feature.jpg)
 *Figure 1: Visual layout of the 14 spatial conditioning factors across the Tehri Garhwal district.*
+
+## 🗺️ Landslide Susceptibility Maps (LSM)
+
+The resulting $10\text{ m}$ Landslide Susceptibility Zone (LSZ) maps delineate severe instability corridors along the Bhagirathi and Bhilangana river valleys, as well as major highway networks (NH-94 and NH-58):
+
+![Landslide Susceptibility Maps](LSM.png)
+*Figure 2: Landslide Susceptibility Zone (LSZ) maps of Tehri Garhwal prepared using (a) LR, (b) RF, (c) LightGBM, and (d) XGBoost.*
 
 ---
 
